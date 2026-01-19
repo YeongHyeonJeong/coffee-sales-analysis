@@ -17,9 +17,9 @@
 
 ## 📈 Visualization
 - 카테고리별 총 수익을 비교하는 막대 그래프
-- ![Revenue by Category](outputs/revenue_by_category.png)
+- ![revenue by Category](outputs/revenue_by_category.png)
 - 카테고리별 평균 가격을 비교하는 막대 그래프
-- ![Average Price by Category](outputs/average_price_by_category.png)
+- ![average Price by Category](outputs/average_price_by_category.png)
 
 ## 💡 Insight
 음료 카테고리는 평균 가격은 낮지만 판매량이 많아 총 매출액이 더 높습니다.
