@@ -22,7 +22,9 @@
 - ![Average Price by Category](coffee-sales-analysis/outputs/average_price_by_category.png)
 
 ## 💡 Insight
-음료 카테고리는 평균 가격은 낮지만 판매량이 많아 총 매출액이 더 높습니다.
+음료 카테고리는 평균 가격은 낮지만,
+판매량이 많아 전체 매출에서 더 높은 비중을 차지합니다.
+이는 음료 제품이 매출 확대의 핵심 상품임을 의미합니다.
 판매량이 많은 음료와 관련된 이벤트를 활용하기 좋을것 같습니다.
 
 ## 🛠 Tools
